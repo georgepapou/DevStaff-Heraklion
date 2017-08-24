@@ -4,6 +4,10 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web-app Developer at [MXM research group](mensxmachina.org)
+* PubDate: 24/09/2017
+* More info at: http://mensxmachina.org/en/2017/08/22/open-positions-available-calls-for-expression-of-interest/
+
 ## DevOps Support Engineer at [Pressidium](https://pressidium.com)
 * PubDate: 09/09/2016
 * More info at: https://pressidium.com/careers/devops-support-engineer-career-pressidium/
